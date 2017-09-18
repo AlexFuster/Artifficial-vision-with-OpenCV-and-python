@@ -1,0 +1,2 @@
+# Artifficial-vision-with-OpenCV-and-python
+We use the  OpenCV  library and the  Python  language in  order to develop different  guiding algorithms  on a mobile autonomous own-manufactured robot,  which includes a  camera connected to a  Raspberry PI.  The purpose of these algorithms  is to solve  five  challenges  through  the extraction of guiding parameters from  the analysis of the visual  feedback offered by the camera, as well as use these parameters to control the robot.
